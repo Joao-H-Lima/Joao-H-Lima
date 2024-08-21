@@ -1,7 +1,7 @@
 <h1>Bem vindo! Eu sou João Lima</h1>
 
 - 👨‍💻 <strong>Estudando Eng.Software.</strong>
-- 🖥 <strong>Gosto de aprender coisas novas e jogar.</strong>
+- 🎮 <strong>Gosto de aprender coisas novas e jogar.</strong>
 - 😁 <strong>Em busca de oportunidades em TI.</strong>
 - ✉ <strong>Contato: joaolima00.ti@gmail.com</strong>
 
